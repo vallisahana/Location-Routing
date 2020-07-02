@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "749533909224",
+    "firebase_url": "https://locationrouting-c245a.firebaseio.com",
+    "project_id": "locationrouting-c245a",
+    "storage_bucket": "locationrouting-c245a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749533909224:android:aa216b4428c08adec1b95d",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.locationgeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749533909224-6mo3qf1d3en3ssskrk3r3pg473k4jj9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuWoXITsXQqa8LpuOEXBseyUNn7Eqhx68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749533909224-6mo3qf1d3en3ssskrk3r3pg473k4jj9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
